@@ -5,6 +5,7 @@
   "explosiveness": 0.5,
   "flammability": 0.5,
   "radioactivity": 0.5,
+  "chargeCapacity": 0.5,
   "hardness": 1,
   "cost": 0.5,
   "alwaysUnlocked": true
