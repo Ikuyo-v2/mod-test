@@ -1,6 +1,6 @@
 {
     "type": "OreBlock",
     "name": "Redore",
-    "itemDrop": "your-item-name",
+    "itemDrop": "redore",
     "wallOre": false
 }
