@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "name": "nickle-wall",
+  "health": 3000,
+  "size": 2,
+  "requirements": [
+    "redore/24"
+  ],
+  "category": "defense"
+}
