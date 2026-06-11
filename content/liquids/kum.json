@@ -1,10 +1,10 @@
 {
-    "name": "kun",
+    "type": "liquid",
+    "name": "kum",
     "displayName": "kum",
-    "color": "f3f5f6f",
+    "color": "#00FFFF",
     "effect": "freezing",
     "capPuddles": true,
     "alwaysUnlocked": true,
-    "particleEffect": "poolBubble",
-    "particleSpacing": 20
+    "albedo" : "0.5"
 }
