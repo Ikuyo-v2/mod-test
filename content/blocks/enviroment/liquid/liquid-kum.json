@@ -1,0 +1,7 @@
+{
+    "type": "floor",
+    "name": "kum",
+    "capPuddles": true,
+    "particleEffect": "poolBubble",
+    "particleSpacing": 20
+}
