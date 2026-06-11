@@ -1,0 +1,10 @@
+{
+    "name": "kun",
+    "displayName": "kum",
+    "color": "f3f5f6f",
+    "effect": "freezing",
+    "capPuddles": true,
+    "alwaysUnlocked": true,
+    "particleEffect": "poolBubble",
+    "particleSpacing": 20
+}
