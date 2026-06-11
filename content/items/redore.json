@@ -1,8 +1,8 @@
 {
   "type": "material",
   "name": "redore",
-  "color": "000000",
-  "explosiveness": 0.5,
+  "color": "ff0000",
+  "explosiveness": 1,
   "flammability": 0.5,
   "radioactivity": 0.5,
   "chargeCapacity": 0.5,
