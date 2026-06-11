@@ -1,5 +1,8 @@
 {
-    "type": "TypeOfThing",
-    "name": "Name Of Thing",
-    "description": "Description of thing."
+  "type": "item",
+  "name": "redore",
+  "color": "black",
+  "hardness": 1,
+  "cost": 0.5,
+  "alwaysUnlocked": true
 }
