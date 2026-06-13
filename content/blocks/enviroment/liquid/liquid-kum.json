@@ -1,7 +1,9 @@
 {
-    "type": "floor",
-    "name": "kum",
-    "capPuddles": true,
-    "particleEffect": "poolBubble",
-    "particleSpacing": 20
+  "type": "floor",
+  "name": "kum",
+  "liquid": "kum",
+  "isLiquid": true,
+  "capPuddles": true,
+  "particleEffect": "poolBubble",
+  "particleSpacing": 20
 }

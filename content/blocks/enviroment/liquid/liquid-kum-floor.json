@@ -1,0 +1,15 @@
+{
+  "type": "Floor",
+  "name": "liquid-kum-floor",
+  "variants": 1,
+  "isLiquid": true,
+  "liquidType": "water",
+  "liquidDrop": "water",
+  "speedMultiplier": 0.5,
+  "drownTime": 150,
+  "status": "wet",
+  "statusDuration": 180,
+  "emitLight": true,
+  "lightRadius": 40,
+  "lightColor": "7f87ff"
+}
